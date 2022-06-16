@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [portfolioLink](portfolioLink)
 
-- 📝 I regularly write articles on [blogLink](blogLink)
-
 - 💬 Ask me about **askMeAbout**
 
 - 📫 How to reach me **email@email.com**
